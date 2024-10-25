@@ -1,0 +1,17 @@
+input{
+    padding-right: 25.5;
+    border-width: 25;
+    breath: 25px;
+}
+output{
+    outline: 50;
+}
+inner-card{
+    
+    border: solid;
+    
+}
+card{
+    padding-left: 25;
+
+}
